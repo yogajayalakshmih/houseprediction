@@ -1,4 +1,4 @@
-# Bike Sharing case study
+# House price prediction Assignment
 > Objective -  To build a multiple linear regression model for the prediction of house pricing.
 
 
@@ -8,6 +8,7 @@ Step 2: Data preparation and EDA
 Step 3: Train a linear regression model
 Step 4: Make predictions and evaluate the model
 Step 5: Validated both Ridge and Lasso to predict the Model
+Step 6: Best Model chosen for this assignment (price prediction)
 
 ## Contributors
 Yogajayalakshmi H
